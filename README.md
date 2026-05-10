@@ -131,5 +131,5 @@ This project is licensed under License - see the LICENSE file for details.
 
 For any inquiries, please contact me.
 
-Shafayat Yeamin Jian
-Lead Developer & Team Lead of Project RedCell
+Shafayat Yeamin Jian  
+Lead Developer & Team Lead of Project RedCell.
